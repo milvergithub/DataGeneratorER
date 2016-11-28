@@ -1,0 +1,702 @@
+[
+  {
+    "fecha_fin": "2016-11-15",
+    "fecha_inicio": "2016-11-15",
+    "activo": "true",
+    "usuario_id_usuario": "1",
+    "rol_id_rol": "1"
+  },
+  {
+    "fecha_fin": "2016-11-16",
+    "fecha_inicio": "2016-11-16",
+    "activo": "true",
+    "usuario_id_usuario": "2",
+    "rol_id_rol": "2"
+  },
+  {
+    "fecha_fin": "2016-11-17",
+    "fecha_inicio": "2016-11-17",
+    "activo": "true",
+    "usuario_id_usuario": "3",
+    "rol_id_rol": "3"
+  },
+  {
+    "fecha_fin": "2016-11-18",
+    "fecha_inicio": "2016-11-18",
+    "activo": "true",
+    "usuario_id_usuario": "4",
+    "rol_id_rol": "1"
+  },
+  {
+    "fecha_fin": "2016-11-19",
+    "fecha_inicio": "2016-11-19",
+    "activo": "true",
+    "usuario_id_usuario": "5",
+    "rol_id_rol": "2"
+  },
+  {
+    "fecha_fin": "2016-11-20",
+    "fecha_inicio": "2016-11-20",
+    "activo": "true",
+    "usuario_id_usuario": "6",
+    "rol_id_rol": "3"
+  },
+  {
+    "fecha_fin": "2016-11-21",
+    "fecha_inicio": "2016-11-21",
+    "activo": "true",
+    "usuario_id_usuario": "7",
+    "rol_id_rol": "1"
+  },
+  {
+    "fecha_fin": "11:35:07",
+    "fecha_inicio": "10:29:07",
+    "activo": "true",
+    "usuario_id_usuario": "8",
+    "rol_id_rol": "2"
+  },
+  {
+    "fecha_fin": "11:35:08",
+    "fecha_inicio": "10:29:08",
+    "activo": "true",
+    "usuario_id_usuario": "9",
+    "rol_id_rol": "3"
+  },
+  {
+    "fecha_fin": "11:35:09",
+    "fecha_inicio": "10:29:09",
+    "activo": "true",
+    "usuario_id_usuario": "10",
+    "rol_id_rol": "1"
+  },
+  {
+    "fecha_fin": "11:35:10",
+    "fecha_inicio": "10:29:10",
+    "activo": "true",
+    "usuario_id_usuario": "11",
+    "rol_id_rol": "2"
+  },
+  {
+    "fecha_fin": "11:35:11",
+    "fecha_inicio": "10:29:11",
+    "activo": "true",
+    "usuario_id_usuario": "12",
+    "rol_id_rol": "3"
+  },
+  {
+    "fecha_fin": "11:35:12",
+    "fecha_inicio": "10:29:12",
+    "activo": "true",
+    "usuario_id_usuario": "13",
+    "rol_id_rol": "1"
+  },
+  {
+    "fecha_fin": "11:35:13",
+    "fecha_inicio": "10:29:13",
+    "activo": "true",
+    "usuario_id_usuario": "14",
+    "rol_id_rol": "2"
+  },
+  {
+    "fecha_fin": "11:35:14",
+    "fecha_inicio": "10:29:14",
+    "activo": "true",
+    "usuario_id_usuario": "15",
+    "rol_id_rol": "3"
+  },
+  {
+    "fecha_fin": "11:35:15",
+    "fecha_inicio": "10:29:15",
+    "activo": "true",
+    "usuario_id_usuario": "16",
+    "rol_id_rol": "1"
+  },
+  {
+    "fecha_fin": "11:35:16",
+    "fecha_inicio": "10:29:16",
+    "activo": "true",
+    "usuario_id_usuario": "17",
+    "rol_id_rol": "2"
+  },
+  {
+    "fecha_fin": "11:35:17",
+    "fecha_inicio": "10:29:17",
+    "activo": "true",
+    "usuario_id_usuario": "18",
+    "rol_id_rol": "3"
+  },
+  {
+    "fecha_fin": "11:35:18",
+    "fecha_inicio": "10:29:18",
+    "activo": "true",
+    "usuario_id_usuario": "19",
+    "rol_id_rol": "1"
+  },
+  {
+    "fecha_fin": "11:35:19",
+    "fecha_inicio": "10:29:19",
+    "activo": "true",
+    "usuario_id_usuario": "20",
+    "rol_id_rol": "2"
+  },
+  {
+    "fecha_fin": "11:35:20",
+    "fecha_inicio": "10:29:20",
+    "activo": "true",
+    "usuario_id_usuario": "21",
+    "rol_id_rol": "3"
+  },
+  {
+    "fecha_fin": "11:35:21",
+    "fecha_inicio": "10:29:21",
+    "activo": "true",
+    "usuario_id_usuario": "22",
+    "rol_id_rol": "1"
+  },
+  {
+    "fecha_fin": "11:35:22",
+    "fecha_inicio": "10:29:22",
+    "activo": "true",
+    "usuario_id_usuario": "23",
+    "rol_id_rol": "2"
+  },
+  {
+    "fecha_fin": "11:35:23",
+    "fecha_inicio": "10:29:23",
+    "activo": "true",
+    "usuario_id_usuario": "24",
+    "rol_id_rol": "3"
+  },
+  {
+    "fecha_fin": "11:35:24",
+    "fecha_inicio": "10:29:24",
+    "activo": "true",
+    "usuario_id_usuario": "25",
+    "rol_id_rol": "1"
+  },
+  {
+    "fecha_fin": "11:35:25",
+    "fecha_inicio": "10:29:25",
+    "activo": "true",
+    "usuario_id_usuario": "26",
+    "rol_id_rol": "2"
+  },
+  {
+    "fecha_fin": "11:35:26",
+    "fecha_inicio": "10:29:26",
+    "activo": "true",
+    "usuario_id_usuario": "27",
+    "rol_id_rol": "3"
+  },
+  {
+    "fecha_fin": "11:35:27",
+    "fecha_inicio": "10:29:27",
+    "activo": "true",
+    "usuario_id_usuario": "28",
+    "rol_id_rol": "1"
+  },
+  {
+    "fecha_fin": "11:35:28",
+    "fecha_inicio": "10:29:28",
+    "activo": "true",
+    "usuario_id_usuario": "29",
+    "rol_id_rol": "2"
+  },
+  {
+    "fecha_fin": "11:35:29",
+    "fecha_inicio": "10:29:29",
+    "activo": "true",
+    "usuario_id_usuario": "30",
+    "rol_id_rol": "3"
+  },
+  {
+    "fecha_fin": "11:35:30",
+    "fecha_inicio": "10:29:30",
+    "activo": "true",
+    "usuario_id_usuario": "31",
+    "rol_id_rol": "1"
+  },
+  {
+    "fecha_fin": "11:35:31",
+    "fecha_inicio": "10:29:31",
+    "activo": "true",
+    "usuario_id_usuario": "32",
+    "rol_id_rol": "2"
+  },
+  {
+    "fecha_fin": "11:35:32",
+    "fecha_inicio": "10:29:32",
+    "activo": "true",
+    "usuario_id_usuario": "33",
+    "rol_id_rol": "3"
+  },
+  {
+    "fecha_fin": "11:35:33",
+    "fecha_inicio": "10:29:33",
+    "activo": "true",
+    "usuario_id_usuario": "34",
+    "rol_id_rol": "1"
+  },
+  {
+    "fecha_fin": "11:35:34",
+    "fecha_inicio": "10:29:34",
+    "activo": "true",
+    "usuario_id_usuario": "35",
+    "rol_id_rol": "2"
+  },
+  {
+    "fecha_fin": "11:35:35",
+    "fecha_inicio": "10:29:35",
+    "activo": "true",
+    "usuario_id_usuario": "36",
+    "rol_id_rol": "3"
+  },
+  {
+    "fecha_fin": "11:35:36",
+    "fecha_inicio": "10:29:36",
+    "activo": "true",
+    "usuario_id_usuario": "37",
+    "rol_id_rol": "1"
+  },
+  {
+    "fecha_fin": "11:35:37",
+    "fecha_inicio": "10:29:37",
+    "activo": "true",
+    "usuario_id_usuario": "38",
+    "rol_id_rol": "2"
+  },
+  {
+    "fecha_fin": "11:35:38",
+    "fecha_inicio": "10:29:38",
+    "activo": "true",
+    "usuario_id_usuario": "39",
+    "rol_id_rol": "3"
+  },
+  {
+    "fecha_fin": "11:35:39",
+    "fecha_inicio": "10:29:39",
+    "activo": "true",
+    "usuario_id_usuario": "40",
+    "rol_id_rol": "1"
+  },
+  {
+    "fecha_fin": "11:35:40",
+    "fecha_inicio": "10:29:40",
+    "activo": "true",
+    "usuario_id_usuario": "41",
+    "rol_id_rol": "2"
+  },
+  {
+    "fecha_fin": "11:35:41",
+    "fecha_inicio": "10:29:41",
+    "activo": "true",
+    "usuario_id_usuario": "42",
+    "rol_id_rol": "3"
+  },
+  {
+    "fecha_fin": "11:35:42",
+    "fecha_inicio": "10:29:42",
+    "activo": "true",
+    "usuario_id_usuario": "43",
+    "rol_id_rol": "1"
+  },
+  {
+    "fecha_fin": "11:35:43",
+    "fecha_inicio": "10:29:43",
+    "activo": "true",
+    "usuario_id_usuario": "44",
+    "rol_id_rol": "2"
+  },
+  {
+    "fecha_fin": "11:35:44",
+    "fecha_inicio": "10:29:44",
+    "activo": "true",
+    "usuario_id_usuario": "45",
+    "rol_id_rol": "3"
+  },
+  {
+    "fecha_fin": "11:35:45",
+    "fecha_inicio": "10:29:45",
+    "activo": "true",
+    "usuario_id_usuario": "46",
+    "rol_id_rol": "1"
+  },
+  {
+    "fecha_fin": "11:35:46",
+    "fecha_inicio": "10:29:46",
+    "activo": "true",
+    "usuario_id_usuario": "47",
+    "rol_id_rol": "2"
+  },
+  {
+    "fecha_fin": "11:35:47",
+    "fecha_inicio": "10:29:47",
+    "activo": "true",
+    "usuario_id_usuario": "48",
+    "rol_id_rol": "3"
+  },
+  {
+    "fecha_fin": "11:35:48",
+    "fecha_inicio": "10:29:48",
+    "activo": "true",
+    "usuario_id_usuario": "49",
+    "rol_id_rol": "1"
+  },
+  {
+    "fecha_fin": "11:35:49",
+    "fecha_inicio": "10:29:49",
+    "activo": "true",
+    "usuario_id_usuario": "50",
+    "rol_id_rol": "2"
+  },
+  {
+    "fecha_fin": "11:35:50",
+    "fecha_inicio": "10:29:50",
+    "activo": "true",
+    "usuario_id_usuario": "51",
+    "rol_id_rol": "3"
+  },
+  {
+    "fecha_fin": "11:35:51",
+    "fecha_inicio": "10:29:51",
+    "activo": "true",
+    "usuario_id_usuario": "52",
+    "rol_id_rol": "1"
+  },
+  {
+    "fecha_fin": "11:35:52",
+    "fecha_inicio": "10:29:52",
+    "activo": "true",
+    "usuario_id_usuario": "53",
+    "rol_id_rol": "2"
+  },
+  {
+    "fecha_fin": "11:35:53",
+    "fecha_inicio": "10:29:53",
+    "activo": "true",
+    "usuario_id_usuario": "54",
+    "rol_id_rol": "3"
+  },
+  {
+    "fecha_fin": "11:35:54",
+    "fecha_inicio": "10:29:54",
+    "activo": "true",
+    "usuario_id_usuario": "55",
+    "rol_id_rol": "1"
+  },
+  {
+    "fecha_fin": "11:35:55",
+    "fecha_inicio": "10:29:55",
+    "activo": "true",
+    "usuario_id_usuario": "56",
+    "rol_id_rol": "2"
+  },
+  {
+    "fecha_fin": "11:35:56",
+    "fecha_inicio": "10:29:56",
+    "activo": "true",
+    "usuario_id_usuario": "57",
+    "rol_id_rol": "3"
+  },
+  {
+    "fecha_fin": "11:35:57",
+    "fecha_inicio": "10:29:57",
+    "activo": "true",
+    "usuario_id_usuario": "58",
+    "rol_id_rol": "1"
+  },
+  {
+    "fecha_fin": "11:35:58",
+    "fecha_inicio": "10:29:58",
+    "activo": "true",
+    "usuario_id_usuario": "59",
+    "rol_id_rol": "2"
+  },
+  {
+    "fecha_fin": "11:35:59",
+    "fecha_inicio": "10:29:59",
+    "activo": "true",
+    "usuario_id_usuario": "60",
+    "rol_id_rol": "3"
+  },
+  {
+    "fecha_fin": "11:36:00",
+    "fecha_inicio": "10:30:00",
+    "activo": "true",
+    "usuario_id_usuario": "61",
+    "rol_id_rol": "1"
+  },
+  {
+    "fecha_fin": "11:36:01",
+    "fecha_inicio": "10:30:01",
+    "activo": "true",
+    "usuario_id_usuario": "62",
+    "rol_id_rol": "2"
+  },
+  {
+    "fecha_fin": "11:36:02",
+    "fecha_inicio": "10:30:02",
+    "activo": "true",
+    "usuario_id_usuario": "63",
+    "rol_id_rol": "3"
+  },
+  {
+    "fecha_fin": "11:36:03",
+    "fecha_inicio": "10:30:03",
+    "activo": "true",
+    "usuario_id_usuario": "64",
+    "rol_id_rol": "1"
+  },
+  {
+    "fecha_fin": "11:36:04",
+    "fecha_inicio": "10:30:04",
+    "activo": "true",
+    "usuario_id_usuario": "65",
+    "rol_id_rol": "2"
+  },
+  {
+    "fecha_fin": "11:36:05",
+    "fecha_inicio": "10:30:05",
+    "activo": "true",
+    "usuario_id_usuario": "66",
+    "rol_id_rol": "3"
+  },
+  {
+    "fecha_fin": "11:36:06",
+    "fecha_inicio": "10:30:06",
+    "activo": "true",
+    "usuario_id_usuario": "67",
+    "rol_id_rol": "1"
+  },
+  {
+    "fecha_fin": "11:36:07",
+    "fecha_inicio": "10:30:07",
+    "activo": "true",
+    "usuario_id_usuario": "68",
+    "rol_id_rol": "2"
+  },
+  {
+    "fecha_fin": "11:36:08",
+    "fecha_inicio": "10:30:08",
+    "activo": "true",
+    "usuario_id_usuario": "69",
+    "rol_id_rol": "3"
+  },
+  {
+    "fecha_fin": "11:36:09",
+    "fecha_inicio": "10:30:09",
+    "activo": "true",
+    "usuario_id_usuario": "70",
+    "rol_id_rol": "1"
+  },
+  {
+    "fecha_fin": "11:36:10",
+    "fecha_inicio": "10:30:10",
+    "activo": "true",
+    "usuario_id_usuario": "71",
+    "rol_id_rol": "2"
+  },
+  {
+    "fecha_fin": "11:36:11",
+    "fecha_inicio": "10:30:11",
+    "activo": "true",
+    "usuario_id_usuario": "72",
+    "rol_id_rol": "3"
+  },
+  {
+    "fecha_fin": "11:36:12",
+    "fecha_inicio": "10:30:12",
+    "activo": "true",
+    "usuario_id_usuario": "73",
+    "rol_id_rol": "1"
+  },
+  {
+    "fecha_fin": "11:36:13",
+    "fecha_inicio": "10:30:13",
+    "activo": "true",
+    "usuario_id_usuario": "74",
+    "rol_id_rol": "2"
+  },
+  {
+    "fecha_fin": "11:36:14",
+    "fecha_inicio": "10:30:14",
+    "activo": "true",
+    "usuario_id_usuario": "75",
+    "rol_id_rol": "3"
+  },
+  {
+    "fecha_fin": "11:36:15",
+    "fecha_inicio": "10:30:15",
+    "activo": "true",
+    "usuario_id_usuario": "76",
+    "rol_id_rol": "1"
+  },
+  {
+    "fecha_fin": "11:36:16",
+    "fecha_inicio": "10:30:16",
+    "activo": "true",
+    "usuario_id_usuario": "77",
+    "rol_id_rol": "2"
+  },
+  {
+    "fecha_fin": "11:36:17",
+    "fecha_inicio": "10:30:17",
+    "activo": "true",
+    "usuario_id_usuario": "78",
+    "rol_id_rol": "3"
+  },
+  {
+    "fecha_fin": "11:36:18",
+    "fecha_inicio": "10:30:18",
+    "activo": "true",
+    "usuario_id_usuario": "79",
+    "rol_id_rol": "1"
+  },
+  {
+    "fecha_fin": "11:36:19",
+    "fecha_inicio": "10:30:19",
+    "activo": "true",
+    "usuario_id_usuario": "80",
+    "rol_id_rol": "2"
+  },
+  {
+    "fecha_fin": "11:36:20",
+    "fecha_inicio": "10:30:20",
+    "activo": "true",
+    "usuario_id_usuario": "81",
+    "rol_id_rol": "3"
+  },
+  {
+    "fecha_fin": "11:36:21",
+    "fecha_inicio": "10:30:21",
+    "activo": "true",
+    "usuario_id_usuario": "82",
+    "rol_id_rol": "1"
+  },
+  {
+    "fecha_fin": "11:36:22",
+    "fecha_inicio": "10:30:22",
+    "activo": "true",
+    "usuario_id_usuario": "83",
+    "rol_id_rol": "2"
+  },
+  {
+    "fecha_fin": "11:36:23",
+    "fecha_inicio": "10:30:23",
+    "activo": "true",
+    "usuario_id_usuario": "84",
+    "rol_id_rol": "3"
+  },
+  {
+    "fecha_fin": "11:36:24",
+    "fecha_inicio": "10:30:24",
+    "activo": "true",
+    "usuario_id_usuario": "85",
+    "rol_id_rol": "1"
+  },
+  {
+    "fecha_fin": "11:36:25",
+    "fecha_inicio": "10:30:25",
+    "activo": "true",
+    "usuario_id_usuario": "86",
+    "rol_id_rol": "2"
+  },
+  {
+    "fecha_fin": "11:36:26",
+    "fecha_inicio": "10:30:26",
+    "activo": "true",
+    "usuario_id_usuario": "87",
+    "rol_id_rol": "3"
+  },
+  {
+    "fecha_fin": "11:36:27",
+    "fecha_inicio": "10:30:27",
+    "activo": "true",
+    "usuario_id_usuario": "88",
+    "rol_id_rol": "1"
+  },
+  {
+    "fecha_fin": "11:36:28",
+    "fecha_inicio": "10:30:28",
+    "activo": "true",
+    "usuario_id_usuario": "89",
+    "rol_id_rol": "2"
+  },
+  {
+    "fecha_fin": "11:36:29",
+    "fecha_inicio": "10:30:29",
+    "activo": "true",
+    "usuario_id_usuario": "90",
+    "rol_id_rol": "3"
+  },
+  {
+    "fecha_fin": "11:36:30",
+    "fecha_inicio": "10:30:30",
+    "activo": "true",
+    "usuario_id_usuario": "91",
+    "rol_id_rol": "1"
+  },
+  {
+    "fecha_fin": "11:36:31",
+    "fecha_inicio": "10:30:31",
+    "activo": "true",
+    "usuario_id_usuario": "92",
+    "rol_id_rol": "2"
+  },
+  {
+    "fecha_fin": "11:36:32",
+    "fecha_inicio": "10:30:32",
+    "activo": "true",
+    "usuario_id_usuario": "93",
+    "rol_id_rol": "3"
+  },
+  {
+    "fecha_fin": "11:36:33",
+    "fecha_inicio": "10:30:33",
+    "activo": "true",
+    "usuario_id_usuario": "94",
+    "rol_id_rol": "1"
+  },
+  {
+    "fecha_fin": "11:36:34",
+    "fecha_inicio": "10:30:34",
+    "activo": "true",
+    "usuario_id_usuario": "95",
+    "rol_id_rol": "2"
+  },
+  {
+    "fecha_fin": "11:36:35",
+    "fecha_inicio": "10:30:35",
+    "activo": "true",
+    "usuario_id_usuario": "96",
+    "rol_id_rol": "3"
+  },
+  {
+    "fecha_fin": "11:36:36",
+    "fecha_inicio": "10:30:36",
+    "activo": "true",
+    "usuario_id_usuario": "97",
+    "rol_id_rol": "1"
+  },
+  {
+    "fecha_fin": "11:36:37",
+    "fecha_inicio": "10:30:37",
+    "activo": "true",
+    "usuario_id_usuario": "98",
+    "rol_id_rol": "2"
+  },
+  {
+    "fecha_fin": "11:36:38",
+    "fecha_inicio": "10:30:38",
+    "activo": "true",
+    "usuario_id_usuario": "99",
+    "rol_id_rol": "3"
+  },
+  {
+    "fecha_fin": "11:36:39",
+    "fecha_inicio": "10:30:39",
+    "activo": "true",
+    "usuario_id_usuario": "100",
+    "rol_id_rol": "1"
+  }
+]
